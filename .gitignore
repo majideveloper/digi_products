@@ -2,5 +2,8 @@ venv/
 .idea
 media/
 
+my_proj/local_settings.py
+db.sqlite3
+
 **/__pycache__/
 *.pyc
